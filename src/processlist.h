@@ -2,6 +2,7 @@
 #include <Windows.h>
 #include <TlHelp32.h>
 #include <vector>
+#include <string>
 #include "antidbg.h"
 class ProcessList {
 public:
